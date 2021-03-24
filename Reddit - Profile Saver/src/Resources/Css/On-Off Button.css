@@ -1,0 +1,9 @@
+.on-button 
+{
+    -fx-background-color: green;
+}
+
+.off-button 
+{
+    -fx-background-color: red;
+}
