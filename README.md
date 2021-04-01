@@ -2,7 +2,7 @@
 This is a JavaFx app that I made to help me keep a list of posts I upvote on Reddit.com and allow me to filter and view them.
 The reason for this is because Reddit only allows you to view the most recent 1000 posts you have upvoted and doesn't allow for any searching system. This allows you to store as many posts as you want in a Json file that can be parsed and viewed by the app.
 
-I ended up dropping this version of the project and switching over to an C# Asp.Net Core version. This was for various reasons, but the main 2 were mobility (I can view a webpage on my phone, but can only use this on the computer) and JavaFx being very slow whenever more then a couple dozen high-ish quality images were loaded in. This meant that,  viewing posts in a horizontal style using thumbnails was fine, but trying to properly display the posts wasn't feasible (at least not as far as I know).
+I ended up dropping this version of the project and switching over to a [C# Asp.Net Core version](https://github.com/kenny2892/RedditProfileSaver-C-Sharp). This was for various reasons, but the main 2 were mobility (I can view a webpage on my phone, but can only use this on the computer) and JavaFx being very slow whenever more then a couple dozen high-ish quality images were loaded in. This meant that,  viewing posts in a horizontal style using thumbnails was fine, but trying to properly display the posts wasn't feasible (at least not as far as I know).
 
 There are 2 parts to the app.
 1. The Python Retrieval Script
